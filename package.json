@@ -1,0 +1,13 @@
+{
+  "name": "process-dataset-test",
+  "version": "0.0.1",
+  "description": "How to share data between modules using helper",
+  "main": "app.js",
+  "dependencies": {
+    "process-dataset": "*"
+  },
+  "devDependencies": {},
+  "author": "Alexej Yaroshevich <qfox@ya.ru>",
+  "license": "MIT",
+  "private": true
+}
